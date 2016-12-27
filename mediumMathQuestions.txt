@@ -1,0 +1,43 @@
+If a + 54 = 5a - 18, then the value of 'a' is...
+If [(2b)/3] - 17 = b - 34, then the value of 'b' is...
+If 12c - 2(c + 1) = 8c + 22, then the value of 'c' is...
+If 3d - 5 = [(4d)/3] + 40, then the value of 'd' is..
+If (7e + 5)/e = 26/3, then the value of 'e' is...
+If (9 + 3f)/(4f + 22) = 1/2, then the value of 'f' is...
+If (1 - 3g)/5 = -(g - 5), then the value of 'g' is...
+If 9h - 4 = (16h + 4)/2, then the value of 'h' is...
+If (4i - 8)/5 = i - 4, then the value of 'i' is...
+In maths a standard equation would be something along the lines of 'y = x^2'. This equation, when computed, generates a line on a graph that is a parabola that passes through the origin. If you go through the differentiation process of the equation 'y = x^2' with respect to 'x' just once, what would be the result?
+Take 'y = x^3 + 2x^2 + 4' to be the equation of a curve. If this equation is then differentiated with respect to 'x' it would become the derivative, 'dy/dx = 3x^2 + 4x'. What characteristic of the curve does this derivative represent?
+Calculus integrates well with the rest of mathematics. Sorry, I just couldn't resist the pun! It is possible to use calculus with respect to trigonometric functions such as sine, cosine and the myriad of others. When first learning the list of derivatives of trigonometric functions one could be forgiven for thinking that the subject is a little tedious but what is the derivative of 'sin(x)'?
+Very often trigonometric expressions aren't as simple as just 'sin(x)' or 'tan(x)'. For example a curve, y, could take the form of 'sin(4x)' where the 'x' term has been multiplied by four. The derivative of 'y = sin(4x)' is 'dy/dx = 4.cos(4x)'. What method could have been used to obtain that derivative?
+The trigonometric functions used in mathematics could be described as a web of functions that are somehow related. To get from one trigonometric function to another could take one or more steps and this is where calculus comes in. What is the derivative of 'tan(x)'?
+The process of differentiation is remarkably flexible and many mathematicians have slaved over their chalkboards in order to develop methods of finding the derivatives of more complex expressions. Which of the following rules would one have to use if they were asked to find the derivative of 'y = x.sin(x)'?
+Approximately how many centimetres in an inch?
+If I weigh 200 pounds, how many kilograms(kg) do I weigh?
+1 mile (US) is how many kilometres?
+A kilowatt hour is made up of how many megajoules?
+One hectare is approximately how many acres?
+100 kilograms is known as what?
+If it is 100 degrees Fahrenheit, it is how many degrees Celsius (centigrade)?
+If it is zero degrees Celsius, it is how many degrees Fahrenheit?
+How many ounces in a pound?
+A megawatt is how many watts?
+How many feet in a yard?
+A mile has how many furlongs?
+35 x 3 =?	
+If Ben went to the store with $20.00 and spent $4.50. How much change will the clerk give him back?
+12 x 12 =?
+200 - 60 + 80=?
+Bob had 10 pencils. Jill had 11 pencils. Bob gave Jill 4 pencils. Jill gave Bob 2 pencils. How many pencils did they have together at the end?
+What is the missing number? 1,3,5,7,9,11,__,15,17,19,21 
+Square root of a 100 is?
+What number is missing? 2,4,6,8,10,__,14,16,18,20
+Find the Average 1,10,19
+Find the Average 1,10,19 
+Find the Average 21,20,-5 
+Find the Average 22,23,-9 
+Find the Average 5,12,4 
+
+
+	 

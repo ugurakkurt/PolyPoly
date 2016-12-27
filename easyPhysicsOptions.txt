@@ -1,0 +1,160 @@
+	collision between fast neutrons and nitrogen nuclei present in the atmosphere
+	action of ultraviolet light from the sun on atmospheric oxygen
+	action of solar radiations particularly cosmic rays on carbon dioxide present in the atmosphere
+	lightning discharge in atmosphere
+	work done in rolling is more than in lifting
+	work done in lifting the stone is equal to rolling it
+	work done in both is same but the rate of doing work is less in rolling
+	work done in rolling a stone is less than in lifting it
+	viscosity of ink
+	capillary action phenomenon
+	diffusion of ink through the blotting
+	siphon action
+	the densities of the liquid in the two vessels are equal
+	the level of the liquid in the two vessels are at the same height
+	both its limbs are of unequal length
+	the temperature of the liquids in the two vessels are the same
+	the heating effect of current alone
+	hysteresis loss alone
+	both the heating effect of current and hysteresis loss
+	intense sunlight at noon
+	Fermi	
+	angstrom
+	newton	
+	tesla
+	time	
+	distance
+	light	
+	intensity of light
+	unequal heating of different parts of the atmosphere
+	magnetic disturbances in the atmosphere
+	depletion of ozone layer in the atmosphere
+	equal heating of different parts of the atmosphere
+	2 minutes
+	4 minutes
+	8 minutes
+	16 minutes
+	all stars move from east to west
+	the earth rotates from west to east
+	the earth rotates from east to west
+	the background of the stars moves from west to east
+	thrust	
+	pressure
+	frequency	
+	conductivity
+	they emit light of a constant intensity
+	their distance from the earth does not change with time
+	they are very far away from the earth resulting in decrease in intensity of light
+	they are nearer to earth and hence we receive a greater amount of light and, therefore minor variations in the intensity are not noticeable
+	they contain free electrons
+	the atoms are lightly packed
+	they have high melting point
+	All of the above
+	will overflow
+	will not rise
+	depressed
+	change its meniscus
+	Pressure and Young's modules
+	Planck's constant and Angular momentum
+	Impulse and moment of force
+	Force and rate of change of linear momentum
+	velocity	
+	momentum
+	acceleration	
+	kinetic energy
+	force	
+	pressure
+	velocity	
+	acceleration
+	Direct current to Alternating current
+	Alternating current to Direct current
+	high voltage to low voltage
+	low voltage to high voltage
+	Electrons
+	Electromagnetic radiations
+	Alpha particles
+	Neutrons
+	transverse	
+	longitudinal
+	electromagnetic	
+	polarised
+	minimum	
+	maximum
+	zero	
+	minimum or maximum
+	sand is soft and concreter is hard
+	the friction between sand and feet is less than that between concrete and feet
+	the friction between sand and feet is more than that between concrete and feet
+	the sand is grainy but concrete is smooth
+	014 m/s
+	140 m/s
+	14 km/s
+	14 m/s
+	amplitude	
+	velocity
+	wavelength	
+	frequency
+	intensity of illumination
+	luminous efficiency
+	luminous flux
+	luminous intensity
+	dispersion	
+	interference
+	diffraction	
+	polarization
+	move towards A
+	move towards B
+	move at right angles to the line joining A and B
+	remain at rest
+	surface tension
+	viscosity
+	specific gravity
+	elasticity
+	locating submerged submarines
+	receiving a signals in a radio receiver
+	locating geostationary satellites
+	detecting and locating the position of objects such as aeroplanes
+	audio sounds
+	infrasonic
+	ultrasonic
+	supersonics
+	mercury is a metal
+	density of mercury is greater than that of water
+	cohesion of mercury is greater than its adhesion with glass
+	cohesion of water is greater than its adhesion with glass
+	increase its life
+	enable it to withstand higher voltages
+	increase its electrical conductivity
+	increase its electrical resistivity
+	the intensity of light emitted by them changes with time
+	the distance of the stars from the earth changes with time
+	the refractive index of the different layers of the earth's atmosphere changes continuously, consequently the position of the image of a start changes with time
+	the light from the star is scattered by the dust particles and air molecules in the earth's atmosphere
+	in the hills the atmospheric pressure is lower than that in the plains and therefore water boils at a temperature lower than 100oC causing an increase in cooking time
+	due to low atmospheric pressure on the hills, the water boils at a temperature higher than 100oC and therefore water takes longer to boil
+	in the hills the atmospheric density is low and therefore a lot of heat is lost to the atmosphere
+	in the hills the humidity is high and therefore a lot of heat is absorbed by the atmosphere leaving very little heat for cooking
+	vector	
+	scalar
+	phasor	
+	tensor
+	Rainbow	
+	Earthshine
+	Halo	
+	Mirage
+	the pressure is the same as that outside
+	normal atmospheric pressure is maintained by the use of air pumps
+	the pressure inside is less than the pressure outside
+	normal humidity and partial vacuum are maintained
+	Water, iron and air
+	Iron, air and water
+	Air, water and iron
+	Iron, water and air
+	10^-3m	
+	10^-6m
+	10^-9m	
+	10^-12
+	steel	
+	water
+	air
+	vacuum

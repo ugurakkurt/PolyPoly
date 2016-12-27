@@ -1,0 +1,194 @@
+	Berries
+	Pomes
+	Drupes 
+	Capsules
+	Uterus
+	Ureter
+	Vagina
+	Fallopian tube
+	Fascicular cambium and procambium
+	Procambium and dermatogen
+	Fascicular cambium and cork cambium
+	Phellogen and procambium
+	Chlorophyll-a
+	Chlorophyll-b
+	Anthocyanin
+	Xanthophyll
+	Tolerance 
+	Rebound effect
+	Addiction 
+	Withdrawal symptoms
+	005 Å
+ 	015 Å
+	025 Å
+	030 Å
+	CT Scan
+ 	Sphygmomanometer
+ 	ECG
+ 	EEG
+ 	Basidiocarp
+	Primary mycelium
+	Fungal hyphae
+ 	Basidiospores
+	O2 is used, CO2 is liberated
+ 	O2 is not used, CO2 is liberated
+ 	O2 is used, CO2 is not liberated
+ 	neither O2 is used, nor CO2 is liberated
+	Down’s syndrome and Klinefelter’s syndrome
+ 	Turner’s syndrome and Klinefelter’s syndrome
+ 	Down’s syndrome and Cri-du-chat syndrome
+ 	Down’s syndrome and Turner’s syndrome
+	bacterium 
+	viroid
+ 	prion 
+	virus
+ 	Reverse Transcriptase 
+ 	DNA Topoisomerase
+	DNA Polymerase 
+	DNA Ligase
+	Zygomorphic
+	Actinomorphic
+	Regular
+	Perfect
+ 	Tortoise 
+	Frog
+ 	Jelly fish 
+ 	Fresh water mussel
+	Pentalonia nigronervosa 
+ 	Aedes aegypti 
+ 	Culex sp 
+	Agribacterium sp
+	17 litres
+	7 litres
+	17 litres
+	170 litres
+ 	Aa × Aa
+	Aa × aa
+ 	AA × aa
+ 	AA × Aa
+	The first stable intermediate compound formed is phosphoglycerate
+	18 molecules of ATP are synthesised during carbon fixation
+ 	NADPH + H+ produced in light reaction is used to reduce diphosphoglycerate
+ 	The carboxylation of RuBP is catalysed by rubisco
+	Platypus, Penguin, Bat, Hippopotamus
+ 	Shrew, Bat, Kiwi, Cat
+	Lion, Whale, Ostrich, Bat
+	Dolphin, Kangaroo, Bat, Cat
+ 	7
+ 	5
+	3
+	9
+	Frog has no exoskeleton but toad has scales 
+ 	Frog respires through lungs but toad respires through skin 
+ 	Frog has a tail but toad has no tail 
+ 	Frog has no parotid glands but toad has a pair of parotid glands
+ 	Moth has one pair of wings but butterfly has two pairs of wings
+ 	Moth has feathery antennae but butterfly has club shaped antennae
+	Moth has simple eyes but butterfly has compound eyes
+ 	Moth is diurnal but butterfly is nocturnal
+ 	proximal tubule
+ 	distal tubule
+ 	collecting duct
+	loop of Henle
+ 	Gonophore 
+ 	Blastopore
+	Oospore 
+ 	Zoospore
+ 	Hibiscus 
+ 	Nephrolepis
+	Cycas 
+	Riccia
+ 	Both parents are homozygous for ‘A’ group
+ 	One parent is homozygous for ‘A’ and another parent is homozygous for ‘B’
+ 	One parent is heterozygous for ‘A’ and another parent is heterozygous for ‘B’
+ 	Both parents are homozygous for ‘B’ group
+ 	a slow, gradual and continuous process
+ 	a sudden but discontinuous process
+ 	a slow and discontinuous process
+	a slow, sudden and discontinuous process
+ 	if volume of lungs is increased, the pressure also increases proportionately
+ 	if volume of lungs is increased the pressure decreases proportionately
+	if volume of lungs is increased, the pressure remains the same
+ 	if volume of lungs is increased, the pressure decreases disproportionately
+ 	1-4 
+ 	1-3
+ 	1-2
+ 	3-4
+	The age of the plant can be determined by its height
+ 	Healing of damaged tissue is because of the activity of sclerenchyma cells
+ 	Grafting is difficult in monocot plants as they have scattered vascular bundles
+ 	Because of marked climatic variations, plants growing near the sea shore do not produce annual rings
+ 	Plasmolysis
+ 	Exosmosis
+	Endosmosis
+ 	Electrolysis
+ 	Bronchitis 
+ 	Rhinitis
+	Bronchial carcinoma 
+	Cyanosis
+ 	Pons 
+ 	Cerebellum
+ 	Hypothalamus 
+ 	Medulla Oblongata
+	The RBC would increase in size and burst while the plant cell would remain about the same size
+	The plant cell would increase in size and burst while the RBC would remain about the same size
+	Both plant cell and RBC would decrease in size and collapse
+ 	Both plant cell and RBC would not undergo any change
+ 	Leptotene
+ 	Zygotene
+	Pachytene
+ 	Diplotene
+ 	Amino acid 
+	Albumin
+	Starch 
+	Maltose
+	cannot get energy 
+	cannot penetrate the egg
+	cannot swim 
+	cannot get food
+	a radioactively labelled single stranded RNA molecule
+	a radioactively labelled single stranded DNA molecule
+	a radioactively labelled double stranded DNA molecule
+	a radioactively labelled double stranded RNA molecule
+	Colinearity 
+	Commaless 
+	Degeneracy 
+	Nonambiguity
+	Hybridization 
+	Embryo culture
+	Shoot apex culture 
+	Grafting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

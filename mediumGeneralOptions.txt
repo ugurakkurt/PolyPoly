@@ -1,0 +1,160 @@
+	Fowl
+	Fruit
+	Fish
+	Fairy
+	Fish
+	Fruit
+	Fowl
+	Fairy
+ 	Fairy
+ 	Fowl
+ 	Fruit
+ 	Fish
+ 	Fairy
+ 	Fowl
+ 	Fruit
+ 	Fish
+ 	Fruit
+ 	Fish
+ 	Fowl
+ 	Fairy
+ 	Fruit
+ 	Fairy
+ 	Fish
+ 	Fowl
+ 	Fairy
+ 	Fish
+ 	Fowl
+ 	Fruit
+ 	Fish
+ 	Fairy
+ 	Fruit
+ 	Fowl
+ 	Fish
+ 	Fairy
+ 	Fowl
+ 	Fruit
+ 	Fruit
+ 	Fish
+ 	Fowl
+ 	Fairy
+ 	Fruit
+ 	Fairy
+ 	Fowl
+ 	Fish
+ 	Fairy
+ 	Fowl
+ 	Fruit
+ 	Fish
+ 	Fruit
+ 	Fish
+ 	Fairy
+	Fowl
+ 	Fruit
+ 	Fish
+ 	Fowl
+ 	Fairy
+ 	Fowl
+ 	Fruit
+ 	Fairy
+ 	Fish
+ 	Fowl
+ 	Fruit
+ 	Fish
+ 	Fairy
+ 	Fish
+ 	Fowl
+ 	Fairy
+ 	Fruit
+ 	Fairy
+ 	Fish
+ 	Fruit
+ 	Fowl
+ 	Fish
+ 	Fruit
+ 	Fairy
+ 	Fowl
+ 	Belletrism
+ 	Aesthetics
+ 	Calligraphy
+ 	Mannerism
+	Bel canto
+ 	Canto bello
+ 	Bell'aria
+ 	Opera bella
+ 	Face
+ 	Mother
+ 	Head
+ 	Hand
+ 	Erica Jong
+ 	Danielle Steel
+ 	Dorothy Parker
+	Olivia Goldsmith
+	Greek
+ 	Chinese
+ 	Arabic
+ 	Sanskrit
+ 	Variety, colour and magnificence
+ 	Gracefulness, delicacy and universality
+ 	Austerity, purity and nobility
+ 	Order, symmetry and definiteness
+	Mignonette
+ 	Lullaby
+ 	Pavement
+ 	Cuspidor
+ 	Drink
+ 	Sleep
+ 	Eat
+ 	Walk
+  	Dionysus
+ 	Asclepius
+ 	Hephaestus
+ 	Hyperion
+ 	Late-night Bar
+ 	Steamboat
+ 	Horse stable
+ 	Tower
+  	William Bryant
+ 	Jones Very
+	Walt Whitman
+	Oliver Wendell Holmes
+ 	Flowers
+ 	Butterflies
+ 	Children
+ 	Trees
+	Charles Darwin
+ 	Charles Hamilton Smith
+ 	Michael Faraday
+ 	Henry Walter Bates
+ 	Buttresses
+ 	Atlases
+ 	Gargoyles
+ 	Friezes
+  	Like the ocean
+ 	Like the night
+ 	Like the river
+ 	Like the day
+ 	Hematite
+ 	Magnetite
+ 	Bauxite
+ 	Galena
+ 	Celine Dion
+ 	Kylie Minogue
+ 	Mariah Carey
+ 	Shania Twain
+ 	Green Window
+ 	Blue Stairs
+ 	Golden Roof
+ 	Red Door
+ 	Lee van Cleef
+ 	Eli Wallach
+ 	Clint Eastwood
+ 	Franco Nero 
+ 	Dada
+	Destructivism
+	Symbolism
+ 	Impressionism
+	scarf
+	shoes
+	tank top
+ 	beanie cap

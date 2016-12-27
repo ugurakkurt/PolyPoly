@@ -1,0 +1,40 @@
+A card is selected at random from a standard 52 card deck. Assuming all cards are equally likely to be selected, what is the probability that a red king was selected?
+A card is selected at random from a standard 52 card deck. Assuming all cards are equally likely to be selected, what is the probability that a red card or a king was selected?
+A card is selected at random from a standard 52 card deck. Assuming all cards are equally likely to be selected, what is the probability that a red card was selected given that a king was selected?
+A card is selected at random from a standard 52 card deck. Assuming all cards are equally likely to be selected, what is the probability that a king was selected given that a red card was selected?
+A card is selected at random from a standard 52 card deck. We are told that a king was not selected. Assuming all cards are equally likely to be selected, what is the probability that the queen of hearts was selected?
+Suppose two cards are drawn from a standard 52 card deck without replacement (which means when we draw a card, we don't put it back). Assuming all cards are equally likely to be selected, what is the probability that the second card is an ace given that the first card is an ace?
+Suppose two cards are drawn from a standard 52 card deck without replacement (which means when we draw a card, we don't put it back). Assuming all cards are equally likely to be selected, what is the probability that the second card is not an ace given that the first card is not an ace?
+Suppose two cards are drawn from a standard 52 card deck without replacement (which means when we draw a card, we don't put it back). Assuming all cards are equally likely to be selected, what is the probability that both cards are red?
+Suppose two cards are drawn from a standard 52 card deck without replacement (which means when we draw a card, we don't put it back). Assuming all cards are equally likely to be selected, what is the probability that both cards are not aces?
+Suppose two cards are drawn from a standard 52 card deck without replacement (which means when we draw a card, we don't put it back). Assuming all cards are equally likely to be selected, what is the probability that the second card is an ace given that the first card is a club?
+Which plane figure is defined as any polygon with exactly 4 angles, all of whom are equal?
+Which Solid can be defined as the regular polyhedron (a solid with all faces identical regular polygons) with the greatest number of faces?
+What shape is created by taking a rectangular sheet of paper, giving it a "twist" and gluing the two ends of the strips together?
+What solid can be thought of as taking a cylinder, giving it a "twist" in some fourth dimension, and gluing one end of the cylinder to the other end
+Of all plane shapes with the same perimeter, which one has the greatest area?
+What shape can be created by taking a rectangular piece of paper, rolling one pair of opposite sides onto each other (to form a cylinder), then rolling the two opposite circular ends of the cylinder onto each other?
+If two sides of a triangle are given, what type of triangle containing those two sides will have the greatest area?
+What Plane Shape can be defined as a quadrilateral whose diagonals bisect each other and are perpendicular?
+Which of these pairs of shapes CANNOT be used to fill the entire plane (assuming all sides are the same length and some of each shape are used)?
+which one of these four solids is not a real shape (i.e. which one did I just make up?)
+0,1,1,2,3,5,?
+1, 2, 4, 8, ?
+0, 1, 3, 6, 10, ?
+2, 3, 5, 7, ?
+1,2,4,8,16,32, ?
+1, 4, 27, 256, ?
+14, 23, 28, 33, 42, ?
+0, 1, 8, 10, 16, 19, ?
+1, 2, 6, 21, 88, ?
+what is 6372+5849 is?
+If there are 23 boys and 21 boys are in class A,Class B has 21 boys and 22 girls,how many girls and boys are there in Class A and B?
+Your mom is in the market,she buy 22kg of fish and 24kg of chicken,you ate 4kg of chicken and 12kg of fish,how many kg was left of the 2 foods?
+You are the baker,you have 253 loaves of bread and 152 donuts,you are making 13 more loaves of bread and 4 donuts,while a boy bought 7 donuts and 17 loaves of bread,how many do loaves of bread and donuts do you still have?
+You have $30.00,You bout a flower that costs $4.50 and sell it to a lady,she give you $1.20,Then you go to the donut store and bought 3 pieces of donuts that costs $12.45,how many money do you still have?
+An orange costs 49p. How much do 3 oranges cost?
+What is the biggest number you can make out of the following 3 digits 4,7,9?
+In a school of 120 children only 1/3 are girls. How many boys are in the school?
+How many minutes are there in 4 and half-hours?
+(200+150-50) X 5 /3=?
+A bag of potatoes weighs 56kg.How many 2 kg bags can you get from it?

@@ -1,0 +1,168 @@
+       	VENUS
+       	WORLD
+      	MERCURY
+      	JUPITER
+      	AGRI
+      	EVEREST
+      	ERCIYES
+      	TOROS
+      	0
+      	3
+      	7
+      	14
+      	SODIUM
+      	HELIUM
+      	HYDROJEN
+      	OXYGEN
+      	Red, white and green
+      	Red, blue and green
+      	Red, blue and yellow
+      	Red, white and blue
+      	Football
+      	Hockey
+      	Soccer
+      	Baseball
+      	Apple
+      	Banana
+      	Peach
+      	Grape
+      	Clouds
+      	Sun
+      	Shooting Stars
+      	Moon
+	China
+	United States of America
+	Israel
+	Canada
+	$70
+	$60
+ 	$50
+ 	$40
+	Dachshund
+	Chihuahua
+	Poodle
+	Great Dane
+	12
+	10
+	8
+	6
+	1
+	0
+	2
+	3
+ 	Skull
+ 	Femur
+ 	Fibula
+ 	Patella
+ 	America the Beautiful
+ 	We Are The Champions
+ 	God Bless America
+ 	The Star Spangled Banner
+ 	West
+ 	South
+ 	North
+ 	East
+ 	Nome, Alaska
+ 	Anchorage, Alaska
+ 	Juneau, Alaska
+ 	Miami, Florida
+ 	George W Bush
+ 	George Washington
+ 	George Bush
+ 	George Michael
+ 	Beef
+ 	Penguin
+ 	Stork
+ 	Badger
+ 	battleships
+ 	cat breeds
+ 	space shuttles
+ 	flowers
+ 	Hearts and Diamonds
+ 	Diamonds and Clubs
+ 	Hearts and Spades
+ 	Spades and Clubs
+ 	Speed of light
+ 	Speed of sound
+ 	Speed of a jet
+ 	Speed of a snail
+ 	com
+ 	edu
+ 	org
+ 	dot
+ 	They are all former football players
+ 	They are all former basketball players
+ 	They are all former baseball players
+ 	They are all former hockey players
+ 	Jaws
+ 	Rocky
+ 	Forrest Gump
+ 	Star Wars
+ 	Green
+ 	Red
+ 	Purple
+ 	Orange
+ 	10
+ 	12
+ 	4
+ 	9
+ 	Triangle
+ 	Octagon
+ 	Square
+ 	Pentagon
+ 	24 hours
+ 	3652424 days
+ 	1 day
+ 	1,440 minutes
+ 	7 and a quarter
+ 	95
+ 	17
+ 	1
+ 	42009
+ 	1
+ 	2
+ 	7
+ 	0
+ 	-173
+ 	5
+ 	14
+ 	8
+ 	10
+ 	6
+ 	9
+  	6
+ 	-1
+ 	12
+ 	13
+ 	70
+ 	17
+ 	21
+ 	3
+ 	Sir Humphrey Appleby
+ 	65,536
+ 	34
+ 	1
+ 	Jesus Christ
+ 	Mohammed
+ 	Buddha
+ 	John Houlding
+ 	Are you Lonesome Tonight?
+ 	It's Raining Men
+ 	Love Me Tender
+ 	Jailhouse Rock
+ 	The 4th Earl of Sandwich
+ 	The 8th Baron of Greenwich
+ 	The 14th Duke of Marlborough
+ 	The 231st Marquess of Queensbury
+ 	Russia
+ 	Narnia
+ 	Ukraine
+ 	Belarus
+
+
+
+
+
+
+
+

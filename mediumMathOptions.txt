@@ -1,0 +1,172 @@
+	12
+	18
+	24
+	27
+	19
+	23
+	41
+	51
+	12
+	16
+	24
+	30
+	9
+	27
+	36
+	54
+	3
+	6
+	9
+	12
+	2
+	17
+	42
+	51
+	6
+	7
+	12
+	14
+	2
+	4
+	5
+	6
+	3
+	12
+	64
+	256
+	dy/dx = sin 2x
+	dy/dx = x^2
+	dy/dx = 2x
+	dy/dx = a
+	tan(x)
+	sec(x)
+	cot(x)
+	cos(x)
+	Chain rule
+	Taylor series expansion
+	D'Alembert's principle
+	Power series expansion
+	cot(x)
+	sec^2 (x)
+	sinh(x)
+	cosh^2 (x)
+	Quotient rule
+	Integrand rule
+	Multiplier rule
+	Product rule
+	2
+	2.5
+	3.5
+	4
+	76
+	91
+	100
+	108
+	1.1
+	1.6
+	1.8
+	2
+	1.2
+	2.4
+	3.6
+	4.8
+	1
+	2
+	2.5
+	3.5
+	a tonne
+	a centogram
+	a quintal
+	a centigram
+	32
+	38
+	40
+	44
+	16
+	24
+	28
+	32
+	4
+	8
+	14
+	16
+	ten
+	one hundred
+	one thousand
+	one million
+	3
+	6
+	9
+	12
+	4
+	6
+	8
+	10
+	105
+	95
+	110
+	120
+	$14.00
+	$13.50
+	$15.50
+	$16.50
+	144
+	169
+	225
+	121
+	200
+	220
+	240
+	210
+	23
+	24
+	25
+	26
+	11
+	12
+	13
+	14
+	12
+	13
+	14
+	15
+	10
+	11
+	12
+	13
+	11
+	12
+	13
+	14
+	12
+	13
+	14
+	15
+	6
+	7
+	8
+	9
+	7
+	8
+	9
+	10
+	4
+	5
+	6
+	7
+	12
+	13
+	14
+	15
+	11
+	12
+	13
+	14
+	6
+	7
+	8
+	9
+	3
+	6
+	8
+	10
